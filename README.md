@@ -27,7 +27,7 @@ I am a self-determined learning Developer <img src="https://media.giphy.com/medi
 
 - :zap: In my free time, I solve different challenges  and read tech articles.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@RaneNjims-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/RaneNjims)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@RaneNjimsDev-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/RaneNjims)
 
 ---
 
