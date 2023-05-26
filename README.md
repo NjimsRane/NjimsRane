@@ -49,6 +49,6 @@ I am a self-determined learning Developer <img src="https://media.giphy.com/medi
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NjimsRane&theme=darcula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NjimsRane&theme=solarized-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjimsRane&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
