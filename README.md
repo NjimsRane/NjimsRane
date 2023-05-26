@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am a self-determined learning Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
-- 💻: I’m still doing differents challenges on HTML CSS JS .
+- 💻: Learning  HTML CSS JS REACTJS TAILWINDCSS SCSS TS MYSQL .
 
 - :seedling: Exploring Technical Content Writing.
 
