@@ -9,6 +9,9 @@
     <a href='https://www.linkedin.com/in/njimsrane/'>
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href='https://njimsrane.netlify.app/'>
+        <img src="https://img.shields.io/badge/Netlify-teal?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=NjimsRane&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -24,7 +27,7 @@
 
 ### :man_technologist: About Me :
 I am a self-determined learning Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cameroon.
-- 💻: Learning  HTML CSS JS REACTJS TAILWINDCSS SCSS TS MYSQL .
+- 💻: Learning  HTML  CSS  JS  REACTjs  TAILWINDCSS SCSS TS MYSQL .
 
 - :seedling: Exploring Technical Content Writing.
 
